@@ -1,7 +1,7 @@
 # Proyecto Capstone grupo 2
 
 Integrantes: 
-  | Leandro Caceres 
+   Leandro Caceres 
   | Edinson Delgado
   | Nicolas Lizama
 
