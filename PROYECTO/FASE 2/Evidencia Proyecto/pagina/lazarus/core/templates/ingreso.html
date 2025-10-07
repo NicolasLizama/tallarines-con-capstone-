@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Inicio sesión</title>
+  </head>
+  <body>
+    <form action="/ingresar/" method="POST">
+        {% csrf_token %}
+        <h1 class="titulo">Inicia sesión</h1>
+
+        <label for="email">
+            <input name="email" placeholder="Correo" type="text" id="email" required>
+        </label>
+
+        <label for="password">
+            <input name="password" placeholder="Contraseña" type="password" id="password" required>
+        </label>
+
+        
+        <button type="submit" id="button">Login</button>
+    </form>
+    <a href="crear/" class="link">¿No tienes cuenta? Regístrate</a>
+    
+
+  </body>
+</html>
