@@ -3,5 +3,5 @@
 Integrantes: 
    Leandro Caceres 
   | Edinson Delgado
-  | Nicolas Lizam
+  | Nicolas Lizama
 
