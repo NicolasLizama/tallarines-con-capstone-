@@ -8,3 +8,9 @@ Integrantes:
 
 LAZARUS
 Plataforma integral de apoyo a la salud mental para estudiantes universitarios
+
+## Tecnologías Utilizadas
+
+- **Backend**: Django (Python)
+- **Frontend**: HTML, CSS
+- **Base de Datos**: Supabase (PostgreSQL)
