@@ -15,7 +15,6 @@ Plataforma integral de apoyo a la salud mental para estudiantes universitarios
 - **Frontend**: HTML, CSS
 - **Base de Datos**: Supabase (PostgreSQL)
 
-- ## Tecnologías Utilizadas
 
 ## Primero clona el repositorio desde GitHub
 
