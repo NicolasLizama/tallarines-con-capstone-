@@ -17,14 +17,14 @@ Plataforma integral de apoyo a la salud mental para estudiantes universitarios
 
 - ## Tecnologías Utilizadas
 
-# Primero clona el repositorio desde GitHub
+## Primero clona el repositorio desde GitHub
 
 ```bash
 git clone https://github.com/LeandroCaceresM/Capstone_Project_Lazarus.git
 cd Capstone_Project_Lazarus
 ```
 
-# instalar requerimientos
+## Instalar requerimientos
 
 ```bash
 pip install -r requirements.txt
