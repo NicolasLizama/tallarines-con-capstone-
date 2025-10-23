@@ -7,7 +7,7 @@ Integrantes:
 
 
 LAZARUS
-Plataforma integral de apoyo a la salud mental para estudiantes universitarios
+Plataforma integral de apoyo a la salud mental para estudiantes universitarios.
 
 ## Tecnologías Utilizadas
 
