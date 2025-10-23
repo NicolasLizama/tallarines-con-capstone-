@@ -36,4 +36,4 @@ pip install -r requirements.txt
 ```bash
 Python manage.py runserver
 ```
-##asegurate estar dentro de la carpeta con ruta C:\Users\<tu_usuario>\Desktop\Capstone_Project_Lazarus\FASE 2\Evidencia Proyecto\pagina\lazarus
+Asegurate estar dentro de la carpeta con ruta C:\Users\<tu_usuario>\Desktop\Capstone_Project_Lazarus\FASE 2\Evidencia Proyecto\pagina\lazarus
