@@ -31,8 +31,9 @@ pip install -r requirements.txt
 ```
 
 
-## Iniciar proyecto (asegurate estar dentro de la carpeta con ruta C:\Users\<tu_usuario>\Desktop\Capstone_Project_Lazarus\FASE 2\Evidencia Proyecto\pagina\lazarus)
+## Iniciar proyecto 
 
 ```bash
 Python manage.py runserver
 ```
+##asegurate estar dentro de la carpeta con ruta C:\Users\<tu_usuario>\Desktop\Capstone_Project_Lazarus\FASE 2\Evidencia Proyecto\pagina\lazarus
