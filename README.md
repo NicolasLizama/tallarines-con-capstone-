@@ -23,8 +23,16 @@ git clone https://github.com/LeandroCaceresM/Capstone_Project_Lazarus.git
 cd Capstone_Project_Lazarus
 ```
 
+
 ## Instalar requerimientos
 
 ```bash
 pip install -r requirements.txt
+```
+
+
+## Iniciar proyecto (asegurate estar dentro de la carpeta con ruta C:\Users\<tu_usuario>\Desktop\Capstone_Project_Lazarus\FASE 2\Evidencia Proyecto\pagina\lazarus)
+
+```bash
+Python manage.py runserver
 ```
