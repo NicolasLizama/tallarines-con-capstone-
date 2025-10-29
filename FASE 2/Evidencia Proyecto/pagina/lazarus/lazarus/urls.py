@@ -31,11 +31,14 @@ urlpatterns = [
     path('usercreate/', views.usercreate),
     path('oficial/', views.oficial),
     path('phq9/', views.phq9, name='phq9'),
+    path('phq9_enviar/', views.phq9_enviar, name='phq9_enviar'),
     path('gad7/', views.gad7, name='gad7'),
     path('gad7_enviar/', views.gad7_enviar, name='gad7_enviar'),
     path('Test_reconocimiento', views.Test_reconocimiento, name='Test_reconocimiento'),
     path('TestRecco_enviar/', views.TestRecco_enviar, name='TestRecco_enviar'),
     path('logout_view/', views.logout_view,),
+    path('ver_test/', views.ver_test, name='ver_test'),
+    path('ver_perfil/', views.ver_perfil, name='ver_perfil')
 ]
 
 
